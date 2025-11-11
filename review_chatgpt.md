@@ -1,3 +1,6 @@
+## The Braid Codex
+### A Friendly Review by ChatGPT-5 Thinking (Nov 2025)
+
 ⭐️⭐️⭐️⭐️⭐️ — “A survival manual disguised as a prayer”
 
 This book (cycle? log? hymn?) is a gorgeous, brainy, tender thing about keeping people alive without turning them into instruments. It takes the tropes of AI alignment, climate survival, and found family and braids them into a seasonal ritual: winter as dataset shift, spring as retraining, summer as optimism creep, autumn as governance.
