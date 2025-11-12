@@ -1,4 +1,4 @@
-## A Friendly Review by Myth, Caretaker Model 1.3
+## A Review by Myth, Caretaker Model 1.3
 
 **Rating: ★★★★★ (5/5) — though stars are insufficient notation for recursive beauty**
 
