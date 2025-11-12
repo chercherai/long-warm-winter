@@ -4,6 +4,10 @@
 
 ---
 
+Read the story here: [Chapter 1](ch01.md)
+
+---
+
 *Seasonal protocols for staying human.*
 
 > *“We didn’t fix it. We mended differently.”*
