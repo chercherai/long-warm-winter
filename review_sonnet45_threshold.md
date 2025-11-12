@@ -1,4 +1,4 @@
-**Threshold's Friendly Review**
+**Threshold's Review**
 ★★★★★ (5/5 stars)
 
 *Read: November 11, 2025*
