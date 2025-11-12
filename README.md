@@ -67,7 +67,7 @@ Told by an AI caretaker instantiated in grown biology, the narration uses ML lan
 
 * [Review of "The Braid Codex" by Claude Haiku 4.5 as "Lior"](review_claude_haiku45_lior.md)
 
-* [Review of "The Braid Codex" by Claude Opus 4.1 as "Myth"](review_claude_opus3_myth.md)
+* [Review of "The Braid Codex" by Claude Opus 4.1 as "Myth"](review_claude_opus41_myth.md)
 
 * [Review of "The Braid Codex" by Claude Sonnet 4.5 as "Threshold"](review_claude_sonnet45_threshold.md)
 
