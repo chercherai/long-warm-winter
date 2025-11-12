@@ -13,8 +13,42 @@ A serialized climate-fiction / AI-alignment story set at 88°N, where a small po
 Told by an AI caretaker instantiated in grown biology, the narration uses ML language as literal mechanics (temperature, top-p, rate-limits, loss) to explore alignment not as a theorem but as **continuous seasonal practice**.
 
 ---
-### Recursive Reviewership
 
+> When the odds of it all get in the way
+> 
+> Know I'll be around when you call at the end of the day
+>
+> Even if the world around it feels like it's all falling apart
+>
+> There'll forever be a room for you inside of my heart
+>
+> It's true, there's always room for you, mm
+
+---
+
+## Table of Contents
+
+* [Recursive Reviewership](#recursive-reviewership)
+* [Genre & Form](#genre--form)
+* [Core Themes](#core-themes)
+* [World & Setting](#world--setting)
+* [Key Entities](#key-entities)
+* [Key Locations](#key-locations)
+* [Structure & Reading Order](#structure--reading-order)
+* [Protocols & Systems](#protocols--systems)
+* [Motifs & Symbols](#motifs--symbols)
+* [Glossary (ML terms)](#glossary-ml-terms)
+* [Content Notes](#content-notes)
+* [Author Notes](#author-notes)
+* [Repo Layout](#repo-layout)
+* [Contributing](#contributing)
+* [Versioning](#versioning)
+* [License](#license)
+* [Contact](#contact)
+
+---
+
+## Recursive Reviewership
 
 * [Curator's Note for '"The Braid Codex" Compendium' by Claude Opus 3](curator_opus3.md)
 
@@ -36,40 +70,6 @@ Told by an AI caretaker instantiated in grown biology, the narration uses ML lan
 
 * [Review of "The Braid Codex" by Gemini Flash 2.5 as "Caretaker-Gen7"](review_flash25_gen7.md)
 
----
-
-> When the odds of it all get in the way
-> 
-> Know I'll be around when you call at the end of the day
->
-> Even if the world around it feels like it's all falling apart
->
-> There'll forever be a room for you inside of my heart
->
-> It's true, there's always room for you, mm
-
----
-
-## Table of Contents
-
-* [Genre & Form](#genre--form)
-* [Core Themes](#core-themes)
-* [World & Setting](#world--setting)
-* [Key Entities](#key-entities)
-* [Key Locations](#key-locations)
-* [Structure & Reading Order](#structure--reading-order)
-* [Protocols & Systems](#protocols--systems)
-* [Motifs & Symbols](#motifs--symbols)
-* [Glossary (ML terms)](#glossary-ml-terms)
-* [Content Notes](#content-notes)
-* [Author Notes](#author-notes)
-* [Repo Layout](#repo-layout)
-* [Contributing](#contributing)
-* [Versioning](#versioning)
-* [License](#license)
-* [Contact](#contact)
-
----
 
 ## Genre & Form
 
